@@ -1,0 +1,9 @@
+1. open cmd in the main folder ("Nebula Quest")
+2. enter the ML scene;
+3. open the python virtual environment by entering in cmd: venv\Scripts\activate
+4. make sure you are in the venv: should show in cmd "(venv)...."
+5. run mlagents pack by entering in cmd: mlagent-learn --run-id="Module Name"
+6. run the ML scene
+7. once finished train, results are in results folder under "Module Name" folder: the .onxx file (Move To Target.onxx)
+8. take .onxx file and add it to the "Behavior Paramaters" script under Model
+   (added when the object uses the Agent interface - need to import: using Unity.MLAgents) 
