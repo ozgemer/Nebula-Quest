@@ -6,9 +6,6 @@ asset list: https://assetstore.unity.com/lists/game-development-final-project-18
 youtube trailer: https://www.youtube.com/watch?v=TNHx5Eph9-0
 <br/>
 link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?usp=sharing
-
-![download](https://github.com/ozgemer/Nebula-Quest/assets/94167340/ae87b6cb-a270-486c-bc8e-a87b11b1264a)
-
 <h3>Features used in this project:</h3>
 <ul>
   <li>UI menus</li>
@@ -17,6 +14,9 @@ link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?u
   <li>Animators, SFX, VFX</li>
 </ul>
 <br/>
+
+![download](https://github.com/ozgemer/Nebula-Quest/assets/94167340/ae87b6cb-a270-486c-bc8e-a87b11b1264a)
+
 
 https://github.com/ozgemer/Nebula-Quest/assets/94167340/4b06fd5f-b460-478e-97d8-f322aa7c9591
 
