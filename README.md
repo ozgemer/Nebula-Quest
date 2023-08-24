@@ -15,7 +15,7 @@ link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?u
   <li>Triggers, Collisions</li>
   <li>Animators, SFX, VFX</li>
   <li>Raycast & layer masks</li>
-  <li>terrain, navmash agents</li>
+  <li>terrain, navmash AI</li>
   <li>ML-agents - self trained and implemented</li>
 </ul>
 <br/>
