@@ -18,6 +18,7 @@ link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?u
 </ul>
 <br/>
 
+https://github.com/ozgemer/Nebula-Quest/assets/94167340/9c25a976-52c9-4679-9bd2-8a1feb38247e
 
 https://github.com/ozgemer/Nebula-Quest/assets/94167340/4b06fd5f-b460-478e-97d8-f322aa7c9591
 
