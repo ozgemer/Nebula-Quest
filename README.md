@@ -8,7 +8,8 @@ youtube trailer: https://www.youtube.com/watch?v=TNHx5Eph9-0
 link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?usp=sharing
 <br/>
 
-![download](https://github.com/ozgemer/Nebula-Quest/assets/94167340/ae87b6cb-a270-486c-bc8e-a87b11b1264a)
+![download](https://github.com/ozgemer/Nebula-Quest/assets/94167340/747861a7-7499-4f87-bbbc-168f5ae644f0)
+
 <h3>Features used in this project:</h3>
 <ul>
   <li>UI menus</li>
@@ -20,10 +21,13 @@ link: https://drive.google.com/drive/folders/1J3c9VsooN1ak75wfNeYAU44a_HAe43PB?u
 </ul>
 <br/>
 
-https://github.com/ozgemer/Nebula-Quest/assets/94167340/9c25a976-52c9-4679-9bd2-8a1feb38247e
+https://github.com/ozgemer/Nebula-Quest/assets/94167340/dcad5e48-59df-4842-bdca-52c9abd994ec
 
-https://github.com/ozgemer/Nebula-Quest/assets/94167340/4b06fd5f-b460-478e-97d8-f322aa7c9591
+https://github.com/ozgemer/Nebula-Quest/assets/94167340/dfa535e9-3f05-478e-86f1-c5e58b055e55
 
-https://github.com/ozgemer/Nebula-Quest/assets/94167340/2568f3af-0f6d-40ea-961b-9c7cfd2be8b5
+https://github.com/ozgemer/Nebula-Quest/assets/94167340/8caf78c8-ec45-42a8-b564-ac14dbd0341f
 
-https://github.com/ozgemer/Nebula-Quest/assets/94167340/b2703458-4e18-474d-937d-1b5627b1f350
+https://github.com/ozgemer/Nebula-Quest/assets/94167340/88761882-1004-49ee-938a-82e03f890821
+
+
+
